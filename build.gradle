@@ -39,9 +39,9 @@ compileTestKotlin {
 
 repositories {
 	mavenCentral()
-	maven{
-		url "http://172.168.1.8/repository/maven-releases/"
-	}
+//	maven{
+//		url "http://172.168.1.8/repository/maven-releases/"
+//	}
 	maven{
 		url "http://172.168.1.8/repository/maven-snapshots/"
 	}
